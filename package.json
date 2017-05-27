@@ -1,0 +1,23 @@
+{
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "css-loader": "^0.28.2",
+    "jquery": "^3.2.1",
+    "postcss-loader": "^2.0.5",
+    "react": "^0.14.3",
+    "react-bootstrap": "^0.31.0",
+    "react-dom": "^0.14.3",
+    "react-postcss": "^0.1.0",
+    "react-router-dom": "^4.1.1",
+    "style-loader": "^0.18.0",
+    "babel-core": "^6.3.21",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "webpack": "^2.2.0-rc.4"
+  }
+}
